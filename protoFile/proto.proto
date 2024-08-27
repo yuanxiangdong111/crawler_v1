@@ -1,0 +1,9 @@
+syntax = "proto3";
+package protoFile;
+
+message Phone {
+  int32 id = 1;
+  string number = 2;
+  string name = 3;
+  string email = 4;
+}

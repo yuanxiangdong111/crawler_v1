@@ -1,0 +1,5 @@
+2024/07/03-14:55:38.060 3c03 Creating DB /Users/xd_yuan/go_code/saveDir1/Default/Local Storage/leveldb since it was missing.
+2024/07/03-14:55:38.073 3c03 Reusing MANIFEST /Users/xd_yuan/go_code/saveDir1/Default/Local Storage/leveldb/MANIFEST-000001
+2024/07/03-14:55:45.582 3603 Level-0 table #5: started
+2024/07/03-14:55:45.590 3603 Level-0 table #5: 20238 bytes OK
+2024/07/03-14:55:45.597 3603 Delete type=0 #3

@@ -1,0 +1,5 @@
+hgetall galaxy.phoenix.attr:1:1683540267128: map[scrollToPos_0:
+scrollToPos_0={"scrollPosX":0,"scrollPosY":0,"bookId":"0","uid":"20362892"}20362892 textbook_list:
+textbook_listm[{"defaultShow":1,"id":"0","name":"默认教材","source":0,"subType":0,"thumbnailUrl":"","type":0,"url":""}]20362892]hgetall galaxy.phoenix.attr:1:1683636755984: map[scrollToPos_0:
+scrollToPos_09{"scrollPosX":0,"scrollPosY":0,"bookId":"0","uid":"1801"}1801 textbook_list:
+textbook_listm[{"defaultShow":1,"id":"0","name":"默认教材","source":0,"subType":0,"thumbnailUrl":"","type":0,"url":""}]1801]
